@@ -11,6 +11,7 @@ Overview: Sorts input either by string or numerically using either stl::sort, qs
 Github: https://github.com/jonting/Volsort
 
 1. Range of integers is 0 to (number of integers * 2)
+
 | Numerical  | Mode    | Size       | Elapsed Time (ms)  | 
 |------------|---------|------------|--------------------| 
 | No         | STL     | 10         | 2                  | 
