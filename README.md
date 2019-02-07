@@ -1,5 +1,5 @@
-# cs302-project2
-Volsort
+# Volsort
+CS302 - Project 2
 
 Jonathan Ting
 Professor Emrich
